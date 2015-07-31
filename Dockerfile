@@ -1,1 +1,1 @@
-RUN echo "Hello, I am Ming!"
+#"Hello, I am Ming!"
